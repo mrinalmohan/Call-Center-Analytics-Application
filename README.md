@@ -27,9 +27,14 @@ The project has the following features:
 
 » Console output: The project prints the processed data on the console.
 
+Table Structure is shown below:
+
+![Table Structure](https://user-images.githubusercontent.com/69083112/231589230-0edf5e9e-22c4-4ea0-af9b-6c311787173f.png)
+
+
 The output of the console is as follows:
 
-![Console_Print](https://user-images.githubusercontent.com/69083112/231568472-10671047-1368-43ec-a7db-1ca94fb64b22.png)
+![Console_Print](https://user-images.githubusercontent.com/69083112/231589448-56332ba5-be2e-466b-9a77-339a2aeb3c26.png)
 ![Console_Print2](https://user-images.githubusercontent.com/69083112/231585775-0e2c31a7-d76b-4cdf-9e3a-2ea85ef71b82.png)
 ![Console_Print3](https://user-images.githubusercontent.com/69083112/231585800-a76c709b-2750-4b5c-8f89-d622050fea8c.png)
 ![Console_Print4](https://user-images.githubusercontent.com/69083112/231585825-486a5a2f-8730-4b48-8527-544aaa5d8d1f.png)
