@@ -75,6 +75,8 @@ To get started with the project, follow these instructions:
 
 » Run the project by executing the javac Dbconnect.java file.
 
+Video Explanation for the project: shorturl.at/rtyI6
+
 Thanks!
 
 
