@@ -1,7 +1,7 @@
 # Call-Center
 Created a call center program, which can connect to the database, process the data and print the output on the console. 
 
-This is a Core Java project for a call center that connects to a database, processes the data, and prints the output on the console. This project is designed to demonstrate the use of Core Java programming language to build a call center application that can interact with a database.
+This project is designed to demonstrate the use of Core Java programming language to build a call center application that can interact with a database.
 
 Getting Started
 To get started with the project, follow these instructions:
