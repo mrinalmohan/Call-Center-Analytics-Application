@@ -40,6 +40,16 @@ Table Structure is shown below:
 
 ![Table Structure](https://user-images.githubusercontent.com/69083112/231589230-0edf5e9e-22c4-4ea0-af9b-6c311787173f.png)
 
+We have to create the following analytics:
+
+1> Hour of the day when the call volume is highest.
+
+2> Hour of the day when the calls are longest.
+
+3> Day of the week when the call volume is highest.
+
+4> Day of the week when the calls are longest.
+
 
 Based on the provided data the output of the console is as follows:
 
