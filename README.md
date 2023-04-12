@@ -1,5 +1,6 @@
 # Call-Center
-Created a call center program, which can connect to the database, process the data and print the output on the console. 
+
+We are creating a project to calculate analytics from the call data saved for a callcenter, which can connect to the database, process the data and print the output on the console.
 
 This project is designed to demonstrate the use of Core Java programming language to build a call center application that can interact with a database.
 
@@ -27,12 +28,20 @@ The project has the following features:
 
 » Console output: The project prints the processed data on the console.
 
+Each call that is received by the callcenter is saved in a database table shown below:
+
+![image](https://user-images.githubusercontent.com/69083112/231590004-f0e01200-4889-4b13-b36b-2488f2d382e1.png)
+
+Sample data is given below:
+
+![image](https://user-images.githubusercontent.com/69083112/231590444-5ada6e37-22cf-40d7-be62-967e1e6f0e17.png)
+
 Table Structure is shown below:
 
 ![Table Structure](https://user-images.githubusercontent.com/69083112/231589230-0edf5e9e-22c4-4ea0-af9b-6c311787173f.png)
 
 
-The output of the console is as follows:
+Based on the provided data the output of the console is as follows:
 
 ![Console_Print](https://user-images.githubusercontent.com/69083112/231589448-56332ba5-be2e-466b-9a77-339a2aeb3c26.png)
 ![Console_Print2](https://user-images.githubusercontent.com/69083112/231585775-0e2c31a7-d76b-4cdf-9e3a-2ea85ef71b82.png)
