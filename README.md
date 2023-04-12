@@ -12,15 +12,20 @@ MySql Database
 
 This project uses the following libraries:
 
-MySQL Connector/J - for JDBC driver to connect to MySQL database
+» MySQL Connector/J - for JDBC driver to connect to MySQL database
 
 
 The project has the following features:
 
-This project uses JDBC API to connect to the database and fetch the data. It then processes the data using Java streams and prints the output on the console.
-Database connection: The project connects to a database using MySql.
-Data processing: The project retrieves data from the database, processes it, and prints the output on the console.
-Console output: The project prints the processed data on the console.
+» This project uses JDBC API to connect to the database and fetch the data. <br>
+
+» It then processes the data using Java streams and prints the output on the console. <br>
+
+» Database connection: The project connects to a database using MySql.
+
+» Data processing: The project retrieves data from the database, processes it, and prints the output on the console.
+
+» Console output: The project prints the processed data on the console.
 
 The output of the console is as follows:
 
@@ -34,11 +39,17 @@ The output of the console is as follows:
 Getting Started
 To get started with the project, follow these instructions:
 
-Clone the project from GitHub repository.
-Open the project in an IDE such as VS Code.
-Ensure that Java 8 or later is installed on your system.
-Set up the database connection in the project by modifying the application.properties file located in the mrinal_assignment/Dbconnect.java/ directory. Update the dbcon, jdbc.username, and jdbc.password properties to match your database configuration.
-Run the project by executing the javac Dbconnect.java file.
+» Clone the project from GitHub repository. <br>
+
+» Open the project in an IDE such as VS Code.
+
+» Ensure that Java 8 or later is installed on your system.
+
+» Set up the database connection in the project by modifying the application.properties file located in the mrinal_assignment/Dbconnect.java/ directory. 
+
+» Update the dbcon, jdbc.username, and jdbc.password properties to match your database configuration.
+
+» Run the project by executing the javac Dbconnect.java file.
 
 Thanks!
 
