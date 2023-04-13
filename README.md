@@ -59,8 +59,6 @@ Based on the provided data the output of the console is as follows:
 ![Console_Print4](https://user-images.githubusercontent.com/69083112/231585825-486a5a2f-8730-4b48-8527-544aaa5d8d1f.png)
 
 
-
-Getting Started
 To get started with the project, follow these instructions:
 
 » Clone the project from GitHub repository. <br>
