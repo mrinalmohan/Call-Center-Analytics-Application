@@ -1,4 +1,4 @@
-# Call-Center
+# Call-Center Analytics Application
 
 We are creating a project to calculate analytics from the call data saved for a callcenter, which can connect to the database, process the data and print the output on the console.
 
